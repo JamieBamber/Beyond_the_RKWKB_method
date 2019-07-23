@@ -1,5 +1,6 @@
 # Beyond_the_RKWKB_method
 The scripts and files used for the "Beyond the RKWKB method" project and paper
+DOI: 10.5281/zenodo.3347094 
 ------------------------------------------------------------------------------
 "Integrator_one_step_test..." type scripts are used to generate plots of approximate solutions with no numerical stepping
 
